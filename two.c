@@ -1,14 +1,3 @@
-/*
- / OS LAB 4
- / HOSTD.c
- / 2023-03-10
- / CRN: 74026 - Group 9
- / =================================
- / Vishan Patel - 100784201
- / Ammar Salmawy - 100756573
- / Angad Singh - 100814038
- */
-
 #include <stdio.h>
 #include <errno.h>
 #include <stdlib.h>
