@@ -22,7 +22,7 @@ make 2
 ![](https://github.com/23Vishan/Tutorial-8/blob/main/Images/1.gif)
 
 ## Question 2
-![](https://github.com/23Vishan/Tutorial-8/blob/main/Images/2.gif)
+![](https://github.com/23Vishan/Tutorial-8/blob/main/Images/Images/2.gif)
 
 ##
 Submitted: Wednesday, March 22nd, 2023
