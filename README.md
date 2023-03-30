@@ -1,6 +1,6 @@
 # Operating Systems - Tutorial 8
 ## SOFE - 3950U Operating Systems
-[Conceptual Questions](https://github.com/23Vishan/OS-Tutorial-7/blob/main/OS%20Tutorial%207%20-%20Google%20Docs.pdf)
+[Conceptual Questions](https://github.com/23Vishan/Tutorial-8/blob/main/OS%20tutorial%208%20-%20Google%20Docs.pdf)
 ## Group 2 - CRN 74171
 - Vishan Patel - 100784201
 - Akshat Kapoor - 100781511
