@@ -18,3 +18,11 @@ make 1
 # Question 2
 make 2
 ```
+## Question 1
+![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/1.gif)
+
+## Question 2
+![](https://github.com/23Vishan/OS-Tutorial-7/blob/main/Gifs/2.gif)
+
+##
+Submitted: Wednesday, March 22nd, 2023
